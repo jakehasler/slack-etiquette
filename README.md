@@ -10,7 +10,10 @@ Almost never. **Especially in the community channels (#general, #utahoffice).** 
 * Is this message somewhat time-sensitive to *everyone* in this channel?
 
 ### @channel vs @here
-If you need to @channel for any of the reasons above but don't want to send the message out to everyone _regardless_ of whether or not they're in Slack, use @channel's lessy noisy brother, @here. This will still blast the message out, but only to people that are on slack at that given time.
+If you need to @channel for any of the reasons above but don't want to send the message out to everyone _regardless_ of whether or not they're in Slack, use @channel's lessy noisy brother, @here. This will still blast the message out, but only to people that are on slack at that given time. Still try to use this rarely, as it will still send a lot of potentially unnecessary notifications.
+
+## How do I _politely_ ask an entire channel a question?
+Simply ask the question! But don't @channel or @here it unless you really think it applies to everyone, is time-sensitive, or very important (i.e. meeting room change, lunch announcements, etc...).
  
 ## How do I Manage my Notifications? (@channel and DM Preferences)
 1. Open Slack
