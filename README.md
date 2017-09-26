@@ -26,4 +26,4 @@ Simply ask the question! But don't @channel or @here it unless you really think 
 If a message applies to a specific person in a channel, instead of just typing their name, you can @ mention them, and they will get a notification. This is better than them potentially not seeing the message, and _much_ better than @channel or @here-ing the entire channel, especially if it's a large channel.
 
 ## Do I have to use Slack?
-Yes. Almost every day. Slack is Podium's main method of communication. You will miss out on questions, announcements, funny images, and more.
+Yes. Almost every day. Slack is Podium's main method of communication. You will miss out on questions, announcements, funny images, and more. And if you use email you will be ridiculed.
